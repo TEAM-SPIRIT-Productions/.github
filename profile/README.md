@@ -4,7 +4,7 @@ The name was coined on the *11th of August in 2020*, half in jest. And somehow, 
 We are a small tight-knit group of a few independent developers and despite our size, we have garnered over **28k downloads** (and counting!) for both [Lazuli](https://github.com/TEAM-SPIRIT-Productions/Lazuli) and [SwordieDB](https://github.com/Bratah123/SwordieDB) combined.  
 
 ### :open_file_folder: Openness as an ideal
-Openness. **Wikitionary** provides a pretty hefty explaination:  
+Openness. **Wikitionary** provides a pretty hefty explanation:  
 
 > (The) degree of accessibility to view, use, and modify computer code in a shared environment 
 > with legal rights generally held in common and preventing proprietary restrictions 
