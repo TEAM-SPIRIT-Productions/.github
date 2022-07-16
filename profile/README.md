@@ -1,7 +1,7 @@
 ## We are SPIRIT :earth_asia:  
 **Team SPIRIT**. This is what we call ourselves. This is what we seek to embody.  
 The name was coined on the *11th of August in 2020*, half in jest. And somehow, it just stuck.  
-We are a small tight-knit group of a few independent developers and despite our size, we have garnered over **28k downloads** (and counting!) for both [Lazuli](https://github.com/TEAM-SPIRIT-Productions/Lazuli) and [SwordieDB](https://github.com/Bratah123/SwordieDB) combined.  
+We are a small tight-knit group of a few independent developers and despite our size, we have garnered over **35k downloads** (and counting!) for both [Lazuli](https://github.com/TEAM-SPIRIT-Productions/Lazuli) and [SwordieDB](https://github.com/Bratah123/SwordieDB) combined.  
 
 ### :open_file_folder: Openness as an ideal
 Openness. **Wikitionary** provides a pretty hefty explanation:  
